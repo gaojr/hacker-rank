@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.4] - 2022-07-15
+
+### Added
+
+- Regex
+    - Find A Sub-Word
+- Preparation
+    - Breaking the Records
+
 ## [0.0.3] - 2021-06-02
 
 ### Added
