@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.5] - 2022-07-21
+
+### Added
+
+- Regex
+    - Alien Username
+    - Find a Word
+    - UK and US: Part 2
+
 ## [0.0.4] - 2022-07-15
 
 ### Added
