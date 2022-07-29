@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.6] - 2022-07-29
+
+### Added
+
+- Algorithms
+    - Compare the Triplets
+- Regex
+    - Detecting Valid Latitude and Longitude Pairs
+    - Detect the Domain Name
+    - Detect the Email Addresses
+    - Find HackerRank
+    - HackerRank Language
+    - HackerRank Tweets
+    - Building a Smart IDE: Identifying comments
+
 ## [0.0.5] - 2022-07-21
 
 ### Added
