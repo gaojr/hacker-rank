@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.7] - 2022-08-29
+
+### Added
+
+- Algorithms
+    - Lonely Integer
+- Regex
+    - Detect HTML Attributes
+    - The British and American Style of Spelling
+    - Valid PAN format
+
 ## [0.0.6] - 2022-07-29
 
 ### Added
